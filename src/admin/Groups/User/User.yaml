@@ -1,0 +1,26 @@
+active: true
+apisRegex:
+  allCollections: false
+  allCustomApis: false
+  allDatabases: false
+  allFields: false
+  allInstanceApis: false
+  allInstances: false
+  allSystemApis: false
+  allThirdPartyApis: false
+  allWebSocketEvents: false
+fields: {}
+guid: 01KGV82YGVEQ6YH0JF71D2ERTP
+name: User
+queryParams:
+  collectionNames: []
+  customApiNames: []
+  databaseNames: []
+  eventNames: []
+  fields: []
+  instanceNames: []
+  schedulerNames: []
+  supportedApiNames: []
+  systemApiNames: []
+  thirdPartyApiNames: []
+  webSocketEventNames: []

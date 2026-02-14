@@ -1,0 +1,9 @@
+active: true
+connectionString: common.connectionString.postgresql
+guid: 01KGS5VTEW1JP77HVZEHZ0AKX5
+maxPoolConnections: 10000
+name: Bata
+password: null
+privilege: null
+type: POSTGRE_SQL_DB
+username: null

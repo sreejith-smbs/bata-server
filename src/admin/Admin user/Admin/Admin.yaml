@@ -1,0 +1,9 @@
+active: true
+apiPath: admin
+email: admin@admin.com
+name: Admin
+settings:
+  allowedOrigins: []
+  sandbox:
+    dependencies:
+      nodeJS: []

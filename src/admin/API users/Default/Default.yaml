@@ -1,0 +1,10 @@
+active: true
+apiUserPasswordPath: common.apiUserPasswords.default
+enablePasswordPath: true
+enableSwaggerDocs: false
+groupNames:
+  - Default
+guid: 01KBEV3ZYZ53E60Y5QJ9449EC1
+name: Default
+password: null
+username: default
